@@ -136,6 +136,4 @@ The thread pool maintains lightweight internal statistics using `std::atomic` to
     queue_size = submitted - completed
     ```
 
-
-Just say which one ⚡
 ```
